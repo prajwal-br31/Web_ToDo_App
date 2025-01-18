@@ -58,8 +58,20 @@ Sort Tasks: Sort tasks by creation date in ascending or descending order.
 
 5. ** Screenshots
    ####Login page
+
+   
 ![Login](https://github.com/user-attachments/assets/6ceb20f6-1f3f-4bd3-9fbe-ef9e8fdd7f9a)
+
+
    ####Todo Form
+
+
+   
 ![Screenshot 2025-01-18 030505](https://github.com/user-attachments/assets/a92e0bfc-a401-4eef-9295-6e1f7a2004f9)
+
+
    ####Filtering based on task completion
+
+
+   
 ![Screenshot 2025-01-18 030634](https://github.com/user-attachments/assets/c154dd7d-b24f-497d-98af-64062db817df)
