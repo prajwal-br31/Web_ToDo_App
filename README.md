@@ -38,9 +38,13 @@ After successfully running the npm run dev. You should see the following paramet
   ➜  Local:   http://localhost:5175/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
+  
 1.The application will be running the the localhost:  http://localhost:5175/ .
-2. Alternatively, follow the commands given above. 
+
+2. Alternatively, follow the commands given above.
+   
 3. Once the login page is running enter the following credentials (Given static for sample)
+
 Username: user
 Password: pass
 
